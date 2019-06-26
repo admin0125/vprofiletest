@@ -1,2 +1,0 @@
-# vprofiletest
-testing of vprofile
